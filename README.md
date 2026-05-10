@@ -79,7 +79,7 @@ After configuring hardware settings, the virtual machine was powered on to begin
 ## Windows 11 Setup Process
 
 ### Installation Configuration
-- Proceed with defaults
+- Proceed with default installation settings
 - No product key selected during setup
 - Installed Windows 11 Pro
 <p align="center">
@@ -88,7 +88,7 @@ After configuring hardware settings, the virtual machine was powered on to begin
 </p>
 
 ### Account Setup
-- Proceed with defaults
+- Proceed with default installation settings
 - Configured as a work/school environment
 - Selected “Join Domain Instead”
 - Created local account credentials and security questions for the virtual machine environment.
