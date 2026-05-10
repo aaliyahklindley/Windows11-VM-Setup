@@ -131,7 +131,6 @@ Outside the VM:
 ```text
 View > Full Screen
 Host + F
-(screenshot)
 ```
 
 ---
