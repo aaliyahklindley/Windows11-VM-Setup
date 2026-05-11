@@ -5,7 +5,7 @@ This lab was created to practice virtualization, operating system installation, 
 
 ---
 
-## Technologies Used
+## Tools & Requirements
 - Windows 11
 - VirtualBox
 - ISO Installation Media
