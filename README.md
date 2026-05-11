@@ -12,18 +12,6 @@ This lab was created to practice virtualization, operating system installation, 
 
 ---
 
-## Skills Practiced
-- Virtual machine deployment
-- Windows 11 installation
-- Resource allocation
-- VirtualBox configuration
-- Guest Additions installation
-- Basic troubleshooting
-- System configuration
-
----
-
-
 ## Downloading VirtualBox
 
 VirtualBox is the environment used to create and manage virtual machines for practicing hands-on IT concepts.
@@ -143,6 +131,17 @@ The VM initially displayed a very small screen resolution.
 ### Solution
 Installed VirtualBox Guest Additions and enabled full-screen mode.
 
+---
+
+## Skills Practiced
+- Virtual machine deployment
+- Windows 11 installation
+- Resource allocation
+- VirtualBox configuration
+- Guest Additions installation
+- Basic troubleshooting
+- System configuration
+  
 ---
 
 ## What I Learned
